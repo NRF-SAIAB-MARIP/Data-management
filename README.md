@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<img width="708" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4dd9c9a3-a3d5-4d4c-9ffb-54ce215a4282"><a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/marip.png)
 
@@ -57,6 +57,27 @@ The designated field trip data manager ensures that:
 ## 2. Raw data captured in Template Folder System (TFS)
 
 ![Step_2](https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/709a4e58-3da9-4619-837a-72840c8e5f03)
+
+## 3. TFS uploaded to the Network Attached Storage (NAS)
+
+## 4. Raw data final checks before processing & archiving
+
+The QA/QC technician or data manager checks that:
+- Videos correctly named (by opening a few random videos and waiting for when the opcode is recorded in the field). If needed, the video pair can be formatted (concatenated and converted). 
+- Extract thumbnails for habitat and field-of-view analyses.
+- Calculates the temperature data and enters it in the metadata sheet. Enters any other environmental or ancillary data associated with each sample. 
+- Cleaned metadata imported into Access database
+
+## 5. Initial metadata archived
+
+a. Metadata imported into Access database
+b. Metadata uploaded onto GlobalArchive 
+       (if this function still exists)
+
+
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
