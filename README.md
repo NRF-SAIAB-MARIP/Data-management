@@ -25,7 +25,6 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 ## Data management
 
 Before we go into the field, a field data manager is assigned to ensure the integrity of the data and that the data gets handed over to the quality control technician after the field trip. The field data manager are usually senior students like 2nd or 3rd year PhD students or post-docs. Someone that has been in the field before. The field data manager ensures that before they go into the field that the template folder system is downloaded from the network attached storage at saiab and that all the videos and associated metadata are saved and renamed in the correct folder. Very important is that they also know the field trip code and the system of creating unique identifier codes for each sample collected. This ensure that the samples are correctly named from sample collection until we have completed the biodiversity data extraction is complete. Our system for creating a sample code starts with the field trip code which includes the date and location. In this example the field trip code is for samples collected as part of the long-term monitoring at Tsitsikamma National Park in February 2021, written as 2021-02_TNP.
-
 ![image](https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/321c811d-24ce-4dca-b6ed-5413d5d089d8)
 
 ![bruvs](/assets/img/bruvs_infographic.png)
