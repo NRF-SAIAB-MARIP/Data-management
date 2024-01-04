@@ -30,13 +30,13 @@ Before we go into the field, a field data manager is assigned to ensure the inte
 ![bruvs](/assets/img/bruvs_infographic.png)
 
 ## Navigation
-1. [Create a sample in the field](https://nrf-saiab-marip.github.io/#socio-economic-implications)
-2. [Raw data captured in Template Folder System](https://nrf-saiab-marip.github.io/#functionality)
-3. [TFS uploaded to the Network Attached Storage (NAS)](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
-4. [Raw data final checks before processing & archiving](https://nrf-saiab-marip.github.io/#users)
-5. [Initial metadata archived](https://nrf-saiab-marip.github.io/#useful-code)
-6. [Cleaned Template Folder System downloaded for biodiversity extraction](https://nrf-saiab-marip.github.io/#future)
-7. [Biodiversity & metadata archived on GlobalArchive](https://nrf-saiab-marip.github.io/#funders)
+1. [Create a sample in the field](https://nrf-saiab-marip.github.io/Data-management/#1-create-a-sample-in-the-field)
+2. [Raw data captured in Template Folder System](https://nrf-saiab-marip.github.io/Data-management/#2-raw-data-captured-in-template-folder-system-tfs)
+3. [TFS uploaded to the Network Attached Storage (NAS)](https://nrf-saiab-marip.github.io/Data-management/#3-tfs-uploaded-to-the-network-attached-storage-nas)
+4. [Raw data final checks before processing & archiving](https://nrf-saiab-marip.github.io/Data-management/#4-raw-data-final-checks-before-processing--archiving)
+5. [Initial metadata archived](https://nrf-saiab-marip.github.io/Data-management/#5-initial-metadata-archived)
+6. [Cleaned Template Folder System downloaded for biodiversity extraction](https://nrf-saiab-marip.github.io/Data-management/#6-cleaned-template-folder-system-downloaded-for-biodiversity-extraction)
+7. [Biodiversity & metadata archived on GlobalArchive](https://nrf-saiab-marip.github.io/Data-management/#7-biodiversity--metadata-archived-on-globalarchive)
 8. [Biodiversity & metadata imported into Access database]
 
 ***
