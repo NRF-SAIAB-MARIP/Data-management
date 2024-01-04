@@ -73,6 +73,9 @@ The QA/QC technician or data manager checks that:
 - Metadata imported into Access database
 - Metadata uploaded onto GlobalArchive (if this function still exists)
 
+![step_6](https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/5fdf4ad3-c33b-496d-b322-e0b63a9b76b0)
+
+
 ## 6. Cleaned Template Folder System downloaded for biodiversity extraction
 
 Video analysts download a copy of the cleaned and checked TFS from the NAS
@@ -81,7 +84,6 @@ Video analysts download a copy of the cleaned and checked TFS from the NAS
 - Ongoing QA/QC
   - Analysts checks their EMObs ~10 samples using CheckEM
   - Analysts also send these fixed EMObs to the QA/QC technician or data manager for added quality control
-![step_6](https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/5fdf4ad3-c33b-496d-b322-e0b63a9b76b0)
 
 
 
