@@ -1,4 +1,4 @@
-<img width="708" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4dd9c9a3-a3d5-4d4c-9ffb-54ce215a4282"><a name="readme-top"></a>
+<img width="972" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/e9343fdb-e7b5-43b1-a5a5-2c5979638d00"><img width="708" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4dd9c9a3-a3d5-4d4c-9ffb-54ce215a4282"><a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/marip.png)
 
@@ -70,9 +70,19 @@ The QA/QC technician or data manager checks that:
 
 ## 5. Initial metadata archived
 
-a. Metadata imported into Access database
-b. Metadata uploaded onto GlobalArchive 
-       (if this function still exists)
+- Metadata imported into Access database
+- Metadata uploaded onto GlobalArchive (if this function still exists)
+
+## 6. Cleaned Template Folder System downloaded for biodiversity extraction
+
+Video analysts download a copy of the cleaned and checked TFS from the NAS
+- Fish and size data extracted using EventMeasure software.
+- Biophysical attributes of the seafloor extracted using TransectMeasure or Coral Point Count (CPCe)
+- Ongoing QA/QC
+  - Analysts checks their EMObs ~10 samples using CheckEM
+  - Analysts also send these fixed EMObs to the QA/QC technician or data manager for added quality control
+
+
 
 
 
