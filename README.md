@@ -1,4 +1,4 @@
-<img width="757" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/f082544b-667e-45ee-9732-f6fb84a6a807"><img width="699" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/1796d9ba-c5e6-4218-9a2c-26128242733c"><img width="972" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/e9343fdb-e7b5-43b1-a5a5-2c5979638d00"><img width="708" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4dd9c9a3-a3d5-4d4c-9ffb-54ce215a4282"><a name="readme-top"></a>
+<a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/marip.png)
 
