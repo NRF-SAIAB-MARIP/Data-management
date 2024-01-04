@@ -36,7 +36,7 @@ Before we go into the field, a field data manager is assigned to ensure the inte
 5. [Initial metadata archived](https://nrf-saiab-marip.github.io/Data-management/#5-initial-metadata-archived)
 6. [Cleaned Template Folder System downloaded for biodiversity extraction](https://nrf-saiab-marip.github.io/Data-management/#6-cleaned-template-folder-system-downloaded-for-biodiversity-extraction)
 7. [Biodiversity & metadata archived on GlobalArchive](https://nrf-saiab-marip.github.io/Data-management/#7-biodiversity--metadata-archived-on-globalarchive)
-8. [Biodiversity & metadata imported into Access database]
+8. [Biodiversity & metadata imported into Access database](https://nrf-saiab-marip.github.io/Data-management/#8-biodiversity--metadata-imported-into-access-database)
 
 ***
 
