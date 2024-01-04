@@ -1,4 +1,4 @@
-<img width="702" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4414671a-61f5-4b18-bcf6-e3c3132c94ff"><a name="readme-top"></a>
+<a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/marip.png)
 
