@@ -21,7 +21,7 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 <a href="https://nrf-saiab-marip.github.io/Data-management/">Data analysis</a>
 </div>
 
-# Data management
+<h1 align="center"> Data management </h1>
 
 ## Navigation
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
