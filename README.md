@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<img width="702" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4414671a-61f5-4b18-bcf6-e3c3132c94ff"><a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/marip.png)
 
@@ -23,6 +23,33 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 </div>
 
 ## Data management
+![bruvs](/assets/img/bruvs_infographic.png)
+
+## 1. Create a sample in the field
+
+Designated field data manager and can be senior students (2nd and 3rd year PhD or post-docs) who are on the trip.
+
+The designated field trip data manager ensures that:
+- they know the agreed upon field trip code
+- the Template Folder System (TFS) is copied onto hard drives before departing for the field trip
+- there are printed metadata sheets.
+- the correct protocols are followed in the field.
+- the videos are copied, renamed according to the unique identifier codes and saved in the right folder in the TFS.
+- the field metadata are copied into the metadata template.
+- any additional environmental data downloaded and saved in the TFS.
+- hand over to QA/QC technician for upload onto the NAS.
+
+## 2. Raw data captured in Template Folder System (TFS)
+
+![Step_2](https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/709a4e58-3da9-4619-837a-72840c8e5f03)
+
+
+
+
+
+
+
+
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
 3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
@@ -30,6 +57,14 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 5. [Useful code](https://nrf-saiab-marip.github.io/#useful-code)
 6. [Future](https://nrf-saiab-marip.github.io/#future)
 7. [Funders](https://nrf-saiab-marip.github.io/#funders)
+
+
+
+
+
+
+
+
 
 ***
 
