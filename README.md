@@ -1,4 +1,4 @@
-<img width="972" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/e9343fdb-e7b5-43b1-a5a5-2c5979638d00"><img width="708" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4dd9c9a3-a3d5-4d4c-9ffb-54ce215a4282"><a name="readme-top"></a>
+<img width="757" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/f082544b-667e-45ee-9732-f6fb84a6a807"><img width="699" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/1796d9ba-c5e6-4218-9a2c-26128242733c"><img width="972" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/e9343fdb-e7b5-43b1-a5a5-2c5979638d00"><img width="708" alt="image" src="https://github.com/NRF-SAIAB-MARIP/Data-management/assets/155557651/4dd9c9a3-a3d5-4d4c-9ffb-54ce215a4282"><a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/marip.png)
 
@@ -86,11 +86,23 @@ Video analysts download a copy of the cleaned and checked TFS from the NAS
   - Analysts also send these fixed EMObs to the QA/QC technician or data manager for added quality control
 
 
+## 7. Biodiversity & metadata archived on GlobalArchive
 
+- Final EMObs and metadata to data manager
+- Final checks in CheckEM
+- Uploaded onto GlobalArchive for archiving
+- Publish to:
+  - OBIS (Ocean Biodiversity Information System)
+  - GBIF (Global Biodiversity Information Facility)
+  - ODIS (Ocean Data and Information System)
 
-
-
-
+ ## 8. Biodiversity & metadata imported into Access database
+ 
+- Data extracted from EMObs and imported into Access database
+- Updated metadata replaces the baseline metadata
+- Data extracted using queries and linked pivot tables
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<img src="/assets/img/Footer.png" alt="Footer" title="footer" align="center"/>
 
