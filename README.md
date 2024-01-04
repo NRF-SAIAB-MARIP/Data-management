@@ -96,7 +96,7 @@ Video analysts download a copy of the cleaned and checked TFS from the NAS
   - GBIF (Global Biodiversity Information Facility)
   - ODIS (Ocean Data and Information System)
 
- ## 8. Biodiversity & metadata imported into Access database 
+## 8. Biodiversity & metadata imported into Access database 
  
 - Data extracted from EMObs and imported into Access database
 - Updated metadata replaces the baseline metadata
