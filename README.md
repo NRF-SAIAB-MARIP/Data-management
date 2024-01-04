@@ -30,13 +30,14 @@ Before we go into the field, a field data manager is assigned to ensure the inte
 ![bruvs](/assets/img/bruvs_infographic.png)
 
 ## Navigation
-1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
-2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
-3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
-4. [Users](https://nrf-saiab-marip.github.io/#users)
-5. [Useful code](https://nrf-saiab-marip.github.io/#useful-code)
-6. [Future](https://nrf-saiab-marip.github.io/#future)
-7. [Funders](https://nrf-saiab-marip.github.io/#funders)
+1. [Create a sample in the field](https://nrf-saiab-marip.github.io/#socio-economic-implications)
+2. [Raw data captured in Template Folder System](https://nrf-saiab-marip.github.io/#functionality)
+3. [TFS uploaded to the Network Attached Storage (NAS)](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
+4. [Raw data final checks before processing & archiving](https://nrf-saiab-marip.github.io/#users)
+5. [Initial metadata archived](https://nrf-saiab-marip.github.io/#useful-code)
+6. [Cleaned Template Folder System downloaded for biodiversity extraction](https://nrf-saiab-marip.github.io/#future)
+7. [Biodiversity & metadata archived on GlobalArchive](https://nrf-saiab-marip.github.io/#funders)
+8. [Biodiversity & metadata imported into Access database]
 
 ***
 
