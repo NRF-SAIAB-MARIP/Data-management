@@ -121,3 +121,5 @@ Over 100 students and researchers from 39 national and international organisatio
 DSI, NRF-SAIAB, SMCRI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<img src="/assets/img/Footer.png" alt="Footer" title="footer" align="center"/>
